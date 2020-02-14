@@ -1,0 +1,11 @@
+*{margin: 0; box-sizing: border-box;}
+
+.CartaoCredito, .Debito , .Boleto{float:left; width: 30%; margin: 30px 1.5%; border-radius: 10px; border: 1px solid #999; font-size: 18px; font-weight: bold;}
+.Titulo{float:left; width: 100%; border-radius: 10px 10px 0 0; font-weight: bold; color: #fff; background: #000; text-align: center;}
+
+.DisplayNone{display: none;}
+
+.FormularioBase{float:left; width: 100%; font-size: 22px; margin-bottom: 15px; font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial;}
+.Formulario{float:left; width: 30.333333%; margin: 15px 1.5%;}
+.Formulario input[type='text'],.Formulario select{float:left; width: 80%; height: 40px; font-size: 18px;}
+.Formulario .BandeiraCartao{float:left; width: 20%;}
